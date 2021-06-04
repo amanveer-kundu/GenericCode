@@ -14,3 +14,5 @@ git commit -a -m "Message"
 7) git reset HEAD filename ## this command will undo the changes in staging area from the history area.
 
 8) git log -- filename ## this gives the commit graph of a particular file
+
+9) git checkout OldCommitHashCharacter -- FileName ## this will restore an old version of a particular file from commit history to working and staging area.
