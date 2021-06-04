@@ -15,6 +15,9 @@ git commit -a -m "Message"
 
 8) git log -- filename ## this gives the commit graph of a particular file
 
+   git log --all --decorate --oneline --graph ## use this command for a better visual representation of the commit graph.
+
+
 9) git checkout OldCommitHashCharacter -- FileName ## this will restore an old version of a particular file from commit history to working and staging area.
 
 10 ) .gitignore ### Add files/directories that you want got NOT to track for any changes.
