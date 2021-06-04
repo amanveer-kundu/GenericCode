@@ -9,3 +9,9 @@
 5) git branch -d BRANCHNAME ## delete the branch 
 
 6) git merge --abort ## this will abort any unmerged changes 
+
+7) git stash save "MESSAGE" ### with this command we save the non-comitted changes to a file along with the messgae
+
+8) git statsh list ## to list all the statshed changes
+
+9) git statsh apply LABELNAME ### this will apply all the statshed changes belonging to that label. We can find lable using git stash list
