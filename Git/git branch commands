@@ -1,3 +1,5 @@
 1) git branch BRANCHNAME ## this will create the new branch
 
 2) git branch ## this will list all the branches
+
+3) git checkout BRANCHNAME ## head will start pointing to the checked out branch. 
