@@ -2,3 +2,9 @@
 git commit -a -m "Message"
 
 2) git add . ### to add all modified file and new files i.e untracked files to the staging area 
+
+3) git diff ## it shows difference between tracked files in working area and staging area. Note: New files i.e. untracked files are not covered.
+
+4) git diff --staged ## this shows difference between staging and history area.
+
+5) git rm filename ## this command removes the file from working area and stating area once.
