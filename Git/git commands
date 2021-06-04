@@ -1,2 +1,4 @@
 1) Add all the modified files to staging area and commit in one single command.
 git commit -a -m "Message"
+
+2) git add . ### to add all modified file and new files i.e untracked files to the staging area 
