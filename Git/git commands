@@ -1,0 +1,2 @@
+1) Add all the modified files to staging area and commit in one single command.
+git commit -a -m "Message"
