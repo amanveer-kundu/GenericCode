@@ -10,3 +10,5 @@ git commit -a -m "Message"
 5) git rm filename ## this command removes the file from working area and stating area once.
 
 6) git checkout filename ## this will undo the changes made to the file in working directoy using file in the staging area.
+
+7) git reset HEAD filename ## this command will undo the changes in staging area from the history area.
