@@ -1,0 +1,6 @@
+1) #### To create the public private ssh keys
+
+ssh-keygen -t rsa 4096 -C "er.aman.kundu@gmail.com"
+
+2) go to github and put the public ssh key under your account
+
