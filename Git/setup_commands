@@ -4,3 +4,5 @@ ssh-keygen -t rsa -b 4096 -C "er.aman.kundu@gmail.com"
 
 2) go to github and put the public ssh key under your account
 
+3) git clone <path> ### By default git clone clones all the branches in the remote repository. 
+They would not show when we do git branch unless we first explicitly checkes out all the branches.
