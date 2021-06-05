@@ -1,0 +1,11 @@
+1) git remote -v ## gives location of all the remotes
+
+2) origin/master or REMOTENAME/master is special kind of branch which keep tracks of the origin.
+
+3) git fetch origin
+
+4) git push origin
+
+5) git pull ### it combines git fetch and push in one single command
+
+6) git clone --single-branch --branch <branchname> <remote-repo>
