@@ -3,5 +3,9 @@
 
 2) copy from conatiner to local file system:
   docker cp container_id:SRC_FILE_PATH DEST_FILE_PATH 
+  
+
+3) Connecting to a running conatiner and start a bash shell
+   docker exec -it <container name> /bin/bash
    
    
