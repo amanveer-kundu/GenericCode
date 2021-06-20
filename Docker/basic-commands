@@ -1,0 +1,7 @@
+1) copy file from local to container
+   docker cp SRC_FILE_PATH container_id:DEST_FILE_PATH
+
+2) copy from conatiner to local file system:
+  docker cp container_id:SRC_FILE_PATH DEST_FILE_PATH 
+   
+   
